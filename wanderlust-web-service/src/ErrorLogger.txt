@@ -1,0 +1,40 @@
+ReferenceError: valconst is not defined
+    at Object.userService.login (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\src\service\userslogin.js:7:5)
+    at C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\src\routes\userRouter.js:18:17
+    at Layer.handle [as handle_request] (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+ReferenceError: valconst is not defined
+    at Object.userService.login (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\src\service\userslogin.js:7:5)
+    at C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\src\routes\userRouter.js:18:17
+    at Layer.handle [as handle_request] (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+Error: Enter correct password
+    at C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Error: Enter correct password
+    at C:\Users\Meghana\Desktop\INFOSYS TRAINING\wanderlust-react\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)

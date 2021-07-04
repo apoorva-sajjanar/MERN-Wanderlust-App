@@ -1,0 +1,32 @@
+{
+  "name": "wanderlust-web-service",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "mongoose": "^5.4.17",
+    "request": "^2.88.2"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "gulp": "^4.0.2",
+    "gulp-eslint": "^6.0.0",
+    "gulp-exit": "0.0.2",
+    "gulp-istanbul": "^1.1.3",
+    "gulp-jasmine": "^4.0.0",
+    "jasmine": "^3.5.0",
+    "jasmine-reporters": "^2.3.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

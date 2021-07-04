@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="18" time="0.716">
+ <testsuite name="TestCase 2: Search package" timestamp="2020-05-14T03:30:19" hostname="localhost" time="0.437" errors="0" tests="4" skipped="0" disabled="0" failures="0">
+  <testcase classname="TestCase 2: Search package" name="TestCase 3: Returns Successfull Search" time="0.045" />
+  <testcase classname="TestCase 2: Search package" name="TestCase 1: Returns status code 200" time="0.011" />
+  <testcase classname="TestCase 2: Search package" name="TestCase 4: Returns error" time="0.016" />
+  <testcase classname="TestCase 2: Search package" name="TestCase 2: Returns Successfull Search" time="0.362" />
+ </testsuite>
+ <testsuite name="TestCase Set 4: Store Booking Details" timestamp="2020-05-14T03:30:20" hostname="localhost" time="0.013" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="TestCase Set 4: Store Booking Details" name="TestCase 2: Booking insertion failed with statuscode" time="0.004" />
+  <testcase classname="TestCase Set 4: Store Booking Details" name="TestCase 1: Successful Insertion of user Booking data" time="0.004" />
+  <testcase classname="TestCase Set 4: Store Booking Details" name="TestCase 3: Booking insertion failed" time="0.004" />
+ </testsuite>
+ <testsuite name="TestCase Set 3: User Registration" timestamp="2020-05-14T03:30:20" hostname="localhost" time="0.009" errors="0" tests="2" skipped="0" disabled="0" failures="0">
+  <testcase classname="TestCase Set 3: User Registration" name="TestCase 2: Valid Response" time="0.005" />
+  <testcase classname="TestCase Set 3: User Registration" name="TestCase 1: Valid Response" time="0.003" />
+ </testsuite>
+ <testsuite name="TestCase Set 1: User db Setup" timestamp="2020-05-14T03:30:20" hostname="localhost" time="0.194" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="TestCase Set 1: User db Setup" name="TestCase 2: Returns Inserted Successfully" time="0.173" />
+  <testcase classname="TestCase Set 1: User db Setup" name="TestCase 1: Returns Insertion error" time="0.015" />
+  <testcase classname="TestCase Set 1: User db Setup" name="TestCase 3: Returns login error statuscode" time="0.004" />
+ </testsuite>
+ <testsuite name="TestCase Set 5: Deleteing data" timestamp="2020-05-14T03:30:20" hostname="localhost" time="0.018" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="TestCase Set 5: Deleteing data" name="TestCase 1: Valid deletion" time="0.004" />
+  <testcase classname="TestCase Set 5: Deleteing data" name="TestCase 2: deletion error" time="0.005" />
+  <testcase classname="TestCase Set 5: Deleteing data" name="TestCase 3: deletion failed with statuscode" time="0.004" />
+ </testsuite>
+ <testsuite name="TestCase Set 6: Fetch Booking details" timestamp="2020-05-14T03:30:20" hostname="localhost" time="0.045" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="TestCase Set 6: Fetch Booking details" name="TestCase 3: Failed to fetch data" time="0.018" />
+  <testcase classname="TestCase Set 6: Fetch Booking details" name="TestCase 1: Successfull fetching of booking details" time="0.013" />
+  <testcase classname="TestCase Set 6: Fetch Booking details" name="TestCase 2: Failed to fetch data" time="0.011" />
+ </testsuite>
+</testsuites>
