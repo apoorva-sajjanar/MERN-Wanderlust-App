@@ -118,7 +118,7 @@ class Home extends Component {
                                     <div className="card-body text-center">
                                         <h4 className="text-uppercase m-0">Address</h4>
                                         <hr className="my-4" />
-                                        <div className="small text-black-50">Infosys, Mysuru</div>
+                                        <div className="small text-black-50">Karnataka, India</div>
                                     </div>
                                 </div>
                             </div>
@@ -128,7 +128,7 @@ class Home extends Component {
                                     <div className="card-body text-center">
                                         <h4 className="text-uppercase m-0">Email</h4>
                                         <hr className="my-4" />
-                                        <div className="small text-black-50"><Link to="/home">apoorva.sajjanar@infosys.com</Link></div>
+                                        <div className="small text-black-50"><Link to="/home">apoorva.sajjanar@xyz.com</Link></div>
                                     </div>
                                 </div>
                             </div>
