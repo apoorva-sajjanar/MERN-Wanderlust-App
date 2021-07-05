@@ -40,13 +40,13 @@ Follow the following steps to get development environment running.
 * Clone _'MERN-TravelHigh.git'_ repository from GitHub
 
   ```bash
-  git clone https://github.com/apoorva-sajjanar/MERN-TravelHigh
+  git clone https://github.com/apoorva-sajjanar/MERN-Wanderlust-App
   ```
 
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:apoorva-sajjanar/MERN-TravelHigh.git
+  git clone git@github.com:apoorva-sajjanar/MERN-Wanderlust-App.git
   ```
 
 * Install node modules
@@ -67,7 +67,7 @@ Follow the following steps to get development environment running.
   This command will start the mongodb and the front end part.
 
   ```bash
-  cd wanderlus-react-ui
+  cd wanderlust-react-ui
   npm start
   cd..
   cd wanderlust-web-service
