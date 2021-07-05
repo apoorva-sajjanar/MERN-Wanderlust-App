@@ -1,6 +1,6 @@
 # MERN-Wanderlust-App
 
-Wanderlust is an online platform that provides booking service for Travel Plans. This application is developed from scratch using MERN(MongoDB, Express, Rect Node) stack.
+Wanderlust-App is a Travel package booking application developed using MERN Stack (MongoDB, Express js, React js, Node js)
 
 https://user-images.githubusercontent.com/85893398/124443767-95555900-dd9b-11eb-8349-752bb88d6653.mp4
 
