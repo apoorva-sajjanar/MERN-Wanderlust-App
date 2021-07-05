@@ -52,11 +52,10 @@ Follow the following steps to get development environment running.
 * Install node modules
 
    ```bash
-   cd MERN-TravelHigh
-   cd TravelHighUI
+   cd wanderlus-react-ui
    npm install
    cd..
-   cd TravelHighWS
+   cd wanderlust-web-service
    npm install
    ```
 
@@ -68,10 +67,10 @@ Follow the following steps to get development environment running.
   This command will start the mongodb and the front end part.
 
   ```bash
-  cd TravelHighUI
+  cd wanderlus-react-ui
   npm start
   cd..
-  cd TravelHighWS
+  cd wanderlust-web-service
   cd src
   npm node app.js
   ```
