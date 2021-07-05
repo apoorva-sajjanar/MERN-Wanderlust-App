@@ -52,7 +52,7 @@ Follow the following steps to get development environment running.
 * Install node modules
 
    ```bash
-   cd wanderlus-react-ui
+   cd wanderlust-react-ui
    npm install
    cd..
    cd wanderlust-web-service
