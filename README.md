@@ -37,7 +37,7 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-* Clone _'MERN-TravelHigh.git'_ repository from GitHub
+* Clone _'MERN-Wanderlust-App.git'_ repository from GitHub
 
   ```bash
   git clone https://github.com/apoorva-sajjanar/MERN-Wanderlust-App
